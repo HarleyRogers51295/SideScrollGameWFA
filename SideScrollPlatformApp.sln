@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SideScrollPlatformConsoleUI", "SideScrollPlatformConsoleUI\SideScrollPlatformConsoleUI.csproj", "{CF32EB13-75CA-48B5-A17D-4CFC6AF55F8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SideScrollerConsoleUI", "SideScrollerConsoleUI\SideScrollerConsoleUI.csproj", "{FD99631B-0159-4563-B1B6-CCCC76C402F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF32EB13-75CA-48B5-A17D-4CFC6AF55F8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF32EB13-75CA-48B5-A17D-4CFC6AF55F8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF32EB13-75CA-48B5-A17D-4CFC6AF55F8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF32EB13-75CA-48B5-A17D-4CFC6AF55F8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD99631B-0159-4563-B1B6-CCCC76C402F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD99631B-0159-4563-B1B6-CCCC76C402F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD99631B-0159-4563-B1B6-CCCC76C402F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD99631B-0159-4563-B1B6-CCCC76C402F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {936D8F5F-F2A6-4F2A-8EC9-A44F5090A2EB}
+	EndGlobalSection
+EndGlobal
